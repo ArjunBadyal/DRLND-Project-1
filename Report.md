@@ -67,8 +67,6 @@ Environment solved in 224 episodes!	Average Score: 13.06
 
 
 ### Conclusion and Future Work
-Although the environment was solved relatively quickly the algorithm could have been improved by optomizing the hyperparameters futher. Other variations of DQN such as double DQN could also be used to improve maximum reward as well as the time the algorithm takes to train to. Futher considerations could aslo have been taken to address issues of stability such as convergence and divergence after a large number of episodes when considering the maximum posible reward obtainable by the agent. 
+Although the environment was solved relatively quickly the algorithm could have been improved by optomizing the hyperparameters further. Other variations of DQN such as double DQN could also be used to improve maximum reward as well as the time the algorithm takes to train to. Futher considerations could aslo have been taken to address issues of stability such as convergence and divergence after a large number of episodes when considering the maximum posible reward obtainable by the agent. 
 
 Future work could include solving some of the issues outlined above as well as applying DQN to the same environment, but with raw pixel data as input.
-
-### References 
