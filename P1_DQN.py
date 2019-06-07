@@ -5,7 +5,7 @@ import numpy as np
 from collections import deque
 from P1_agent import Agent
 
-
+#replace with your own directory
 env = UnityEnvironment(file_name="/home/arjun/Documents/Udacity/Deep_RL/deep-reinforcement-learning/p1_navigation/Banana_Linux/Banana.x86_64")
 
 # get the default brain
