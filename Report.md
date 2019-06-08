@@ -8,7 +8,7 @@ In this project the DQN algorithm was used to solve the environment. In particul
 
 ### Algorithm and Network Architecture
 ![DQN][image2]
-The algorithm above was taken from this <cite><a href="https://arxiv.org/abs/1509.02971"><i>paper</i></a></cite>; outlining the use of experience replay and a fixed Q-target to perform the gradient descent update step on the weights in the neural net used to approximate the action value function. The overall code was modified for this environment from that given in the udacity lesson on DQN.
+The algorithm above was taken from this <cite><a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"><i>paper</i></a></cite>; outlining the use of experience replay and a fixed Q-target to perform the gradient descent update step on the weights in the neural net used to approximate the action value function. The overall code was modified for this environment from that given in the udacity lesson on DQN.
 
 The neural net used just three linear layers and the relu activation function. 
 
